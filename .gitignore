@@ -1,0 +1,21 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# secrets
+.env
+.env.*
+
+# local dev environment and agent conventions
+shell.nix
+AGENTS.md
+
+# runtime artifacts
+data/.cache/

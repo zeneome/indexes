@@ -1,0 +1,236 @@
+{
+  "indices": [
+    {
+      "name": "aex",
+      "region": "nld",
+      "updated": "20260630",
+      "count": 25,
+      "enriched": 25,
+      "data_quality": 0.9657142857142857
+    },
+    {
+      "name": "asx50",
+      "region": "aus",
+      "updated": "20260630",
+      "count": 49,
+      "enriched": 49,
+      "data_quality": 0.9436345966958213
+    },
+    {
+      "name": "bel20",
+      "region": "bel",
+      "updated": "20260630",
+      "count": 20,
+      "enriched": 20,
+      "data_quality": 0.9511904761904761
+    },
+    {
+      "name": "cac40",
+      "region": "fra",
+      "updated": "20260630",
+      "count": 40,
+      "enriched": 40,
+      "data_quality": 0.9601190476190476
+    },
+    {
+      "name": "dax40",
+      "region": "deu",
+      "updated": "20260630",
+      "count": 40,
+      "enriched": 40,
+      "data_quality": 0.9714285714285713
+    },
+    {
+      "name": "dowjones",
+      "region": "usa",
+      "updated": "20260630",
+      "count": 30,
+      "enriched": 30,
+      "data_quality": 0.9817460317460317
+    },
+    {
+      "name": "eurostoxx50",
+      "region": "eur",
+      "updated": "20260630",
+      "count": 50,
+      "enriched": 50,
+      "data_quality": 0.9580952380952381
+    },
+    {
+      "name": "ftse100",
+      "region": "gbr",
+      "updated": "20260630",
+      "count": 100,
+      "enriched": 100,
+      "data_quality": 0.9383333333333332
+    },
+    {
+      "name": "ftsemib",
+      "region": "ita",
+      "updated": "20260630",
+      "count": 40,
+      "enriched": 40,
+      "data_quality": 0.9422619047619047
+    },
+    {
+      "name": "hangseng",
+      "region": "hkg",
+      "updated": "20260630",
+      "count": 85,
+      "enriched": 85,
+      "data_quality": 0.9658263305322128
+    },
+    {
+      "name": "ibex35",
+      "region": "esp",
+      "updated": "20260630",
+      "count": 35,
+      "enriched": 35,
+      "data_quality": 0.9401360544217687
+    },
+    {
+      "name": "iseq20",
+      "region": "irl",
+      "updated": "20260630",
+      "count": 20,
+      "enriched": 16,
+      "data_quality": 0.7071428571428571
+    },
+    {
+      "name": "lq45",
+      "region": "idn",
+      "updated": "20260630",
+      "count": 45,
+      "enriched": 45,
+      "data_quality": 0.9566137566137566
+    },
+    {
+      "name": "nasdaq100",
+      "region": "usa",
+      "updated": "20260630",
+      "count": 101,
+      "enriched": 101,
+      "data_quality": 0.9523809523809523
+    },
+    {
+      "name": "nifty50",
+      "region": "ind",
+      "updated": "20260630",
+      "count": 50,
+      "enriched": 50,
+      "data_quality": 0.9628571428571427
+    },
+    {
+      "name": "niftynext50",
+      "region": "ind",
+      "updated": "20260630",
+      "count": 50,
+      "enriched": 50,
+      "data_quality": 0.9323809523809524
+    },
+    {
+      "name": "nikkei225",
+      "region": "jpn",
+      "updated": "20260630",
+      "count": 225,
+      "enriched": 225,
+      "data_quality": 0.9724867724867724
+    },
+    {
+      "name": "nzx50",
+      "region": "nzl",
+      "updated": "20260630",
+      "count": 50,
+      "enriched": 47,
+      "data_quality": 0.8928571428571428
+    },
+    {
+      "name": "obx",
+      "region": "nor",
+      "updated": "20260630",
+      "count": 25,
+      "enriched": 24,
+      "data_quality": 0.9333333333333332
+    },
+    {
+      "name": "omx30",
+      "region": "swe",
+      "updated": "20260630",
+      "count": 30,
+      "enriched": 30,
+      "data_quality": 0.9809523809523809
+    },
+    {
+      "name": "omxcopenhagen25",
+      "region": "dnk",
+      "updated": "20260630",
+      "count": 25,
+      "enriched": 23,
+      "data_quality": 0.879047619047619
+    },
+    {
+      "name": "omxhelsinki25",
+      "region": "fin",
+      "updated": "20260630",
+      "count": 25,
+      "enriched": 24,
+      "data_quality": 0.937142857142857
+    },
+    {
+      "name": "psi",
+      "region": "prt",
+      "updated": "20260630",
+      "count": 18,
+      "enriched": 18,
+      "data_quality": 0.9629629629629629
+    },
+    {
+      "name": "sensex",
+      "region": "ind",
+      "updated": "20260630",
+      "count": 30,
+      "enriched": 30,
+      "data_quality": 0.9182539682539682
+    },
+    {
+      "name": "smi",
+      "region": "che",
+      "updated": "20260630",
+      "count": 47,
+      "enriched": 46,
+      "data_quality": 0.9549138804457953
+    },
+    {
+      "name": "sp500",
+      "region": "usa",
+      "updated": "20260630",
+      "count": 503,
+      "enriched": 503,
+      "data_quality": 0.9661081132254095
+    },
+    {
+      "name": "sti",
+      "region": "sgp",
+      "updated": "20260630",
+      "count": 30,
+      "enriched": 30,
+      "data_quality": 0.9626984126984126
+    },
+    {
+      "name": "ta35",
+      "region": "isr",
+      "updated": "20260630",
+      "count": 35,
+      "enriched": 35,
+      "data_quality": 0.9285714285714286
+    },
+    {
+      "name": "tsx60",
+      "region": "can",
+      "updated": "20260630",
+      "count": 59,
+      "enriched": 59,
+      "data_quality": 0.9745762711864406
+    }
+  ]
+}
